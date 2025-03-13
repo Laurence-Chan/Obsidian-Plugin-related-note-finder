@@ -1,0 +1,10 @@
+{
+  "id": "AI-tagger-and-related-notes-finder",
+  "name": "AI Tagger and Related Notes Finder",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Use AI to tag notes and find related notes",
+  "author": "Laurence Chan",
+  "authorUrl": "https://github.com/laurence-chan",
+  "isDesktopOnly": false
+} 
